@@ -1,1 +1,1 @@
-resource_group_name = "rg-dts237-dev"
+resource_group_name = "rg-dts237-dev2"
