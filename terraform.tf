@@ -1,4 +1,5 @@
 terraform {
+  /*
   cloud {
     organization = "DT-Learning"
 
@@ -6,6 +7,7 @@ terraform {
       name = "learn-terraform-cloud"
     }
   }
+  */
 
   required_providers {
     azurerm = {
